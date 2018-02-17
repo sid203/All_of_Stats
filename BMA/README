@@ -1,0 +1,9 @@
+Bayesian Model Averaging : When it is too risky to base all your inferences using one single Model M, one can go bayesian, as in one can fit the not one but many models to obtain inference. 
+
+A more detailed explanation of BMA can be found out in the file "Synthesis Report.pdf". 
+
+Description of files : 
+1. BMA.r : this file implements BMA using existing packages in R. 
+2. all other files are intermediate files generated from the above script ( contained in the folder Bayesian_Model_Averaging ) 
+3. Synthesis Report.pdf : Report file explaining the projec in detail
+4. Bayesian_Model_Averaging.pdf : just a short presentation of the project
