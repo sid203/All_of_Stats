@@ -1,0 +1,29 @@
+Summary : Dropout technique for GLMs. 
+GLMs act as a single layer neural network. Dropout is implemented , and errors are compared against ridge and lasso regression. A detailed explanation is given in the Textual_Answers.pdf.
+
+In addition to it, the first part of the project consists of a high dimensional regression setup. A prediction problem is solved in which the number of covariates were much larger than the number of training examples ( d >> n ).
+
+
+Description of files : 
+1. supernova.csv : dataset used in the script Q2.a.py
+2. tempo_hwdata.csv : high dimensional dataset used in the script SL_Q1.py
+3. Textual_Answers.pdf : Report with some answers related to the project
+4. SL_Q1.py , SL_HW1.ipynb : Python script & jupyter notebook to perform high dimensional regression using ridge and lasso and implement Dropout. 
+5. Q2.a.py,Q2.a.ipynb : Python script to implement and study the effect of dropout on Supernova.csv dataset. 
+6. Q2.b.py,Q2.b.ipynb : Simulation study for dropout on generated data and comparison of the test erros with ridge and lasso fit. 
+
+
+
+
+
+
+----------------
+NOTE : 
+Q2.Simulation study : 
+
+The algorithm would probably take between 10-12 Minutes. Unfotunately, it can't be improved further...
+
+We have 10 values of delta, and 1000 values of M, So to create this amount of Data and calculating Error takes some time...
+
+
+
