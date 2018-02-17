@@ -1,0 +1,150 @@
+x
+1 Results from run 1:
+Censored	Uncensored	Percent Uncensored
+Low Risk	20	17	45.945945945946
+High Risk	10	18	64.2857142857143
+x
+1 Results from run 2:
+Censored	Uncensored	Percent Uncensored
+Low Risk	12	10	45.4545454545455
+High Risk	18	12	40
+x
+1 Results from run 3:
+Censored	Uncensored	Percent Uncensored
+Low Risk	11	15	57.6923076923077
+High Risk	19	14	42.4242424242424
+x
+1 Results from run 4:
+Censored	Uncensored	Percent Uncensored
+Low Risk	14	18	56.25
+High Risk	16	17	51.5151515151515
+x
+1 Results from run 5:
+Censored	Uncensored	Percent Uncensored
+Low Risk	18	19	51.3513513513513
+High Risk	7	14	66.6666666666667
+x
+1 Results from run 6:
+Censored	Uncensored	Percent Uncensored
+Low Risk	10	19	65.5172413793103
+High Risk	20	16	44.4444444444444
+x
+1 Results from run 7:
+Censored	Uncensored	Percent Uncensored
+Low Risk	13	17	56.6666666666667
+High Risk	11	17	60.7142857142857
+x
+1 Results from run 8:
+Censored	Uncensored	Percent Uncensored
+Low Risk	15	16	51.6129032258064
+High Risk	15	19	55.8823529411765
+x
+1 Results from run 9:
+Censored	Uncensored	Percent Uncensored
+Low Risk	14	17	54.8387096774194
+High Risk	16	18	52.9411764705882
+x
+1 Results from run 10:
+Censored	Uncensored	Percent Uncensored
+Low Risk	16	10	38.4615384615385
+High Risk	9	18	66.6666666666667
+x
+1 Overall average results across all CV runs:
+Censored	Uncensored	Percent Uncensored
+Low Risk	14.3	15.8	52.4916943521595
+High Risk	14.1	16.3	53.6184210526316
+x
+1 Results from run 1:
+Censored	Uncensored	Percent Uncensored
+Low Risk	11	18	62.0689655172414
+High Risk	19	17	47.2222222222222
+x
+1 Results from run 1:
+Censored	Uncensored	Percent Uncensored
+Low Risk	19	23	54.7619047619048
+High Risk	11	12	52.1739130434783
+x
+1 Results from run 2:
+Censored	Uncensored	Percent Uncensored
+Low Risk	20	14	41.1764705882353
+High Risk	10	21	67.741935483871
+x
+1 Results from run 1:
+Censored	Uncensored	Percent Uncensored
+Low Risk	12	16	57.1428571428571
+High Risk	18	19	51.3513513513513
+x
+1 Results from run 2:
+Censored	Uncensored	Percent Uncensored
+Low Risk	18	10	35.7142857142857
+High Risk	12	18	60
+x
+1 Results from run 3:
+Censored	Uncensored	Percent Uncensored
+Low Risk	17	14	45.1612903225806
+High Risk	12	16	57.1428571428571
+x
+1 Overall average results across all CV runs:
+Censored	Uncensored	Percent Uncensored
+Low Risk	15.6666666666667	13.3333333333333	45.9770114942529
+High Risk	14	17.6666666666667	55.7894736842105
+x
+1 Results from run 1:
+Censored	Uncensored	Percent Uncensored
+Low Risk	19	14	42.4242424242424
+High Risk	11	21	65.625
+x
+1 Results from run 2:
+Censored	Uncensored	Percent Uncensored
+Low Risk	16	20	55.5555555555556
+High Risk	14	15	51.7241379310345
+x
+1 Results from run 3:
+Censored	Uncensored	Percent Uncensored
+Low Risk	15	17	53.125
+High Risk	15	18	54.5454545454545
+x
+1 Overall average results across all CV runs:
+Censored	Uncensored	Percent Uncensored
+Low Risk	16.6666666666667	17	50.4950495049505
+High Risk	13.3333333333333	18	57.4468085106383
+x
+1 Results from run 1:
+Censored	Uncensored	Percent Uncensored
+Low Risk	15	13	46.4285714285714
+High Risk	13	12	48
+x
+1 Results from run 2:
+Censored	Uncensored	Percent Uncensored
+Low Risk	16	13	44.8275862068966
+High Risk	14	22	61.1111111111111
+x
+1 Results from run 3:
+Censored	Uncensored	Percent Uncensored
+Low Risk	13	17	56.6666666666667
+High Risk	17	18	51.4285714285714
+x
+1 Overall average results across all CV runs:
+Censored	Uncensored	Percent Uncensored
+Low Risk	14.6666666666667	14.3333333333333	49.4252873563218
+High Risk	14.6666666666667	17.3333333333333	54.1666666666667
+x
+1 Results from run 1:
+Censored	Uncensored	Percent Uncensored
+Low Risk	15	13	46.4285714285714
+High Risk	13	12	48
+x
+1 Results from run 2:
+Censored	Uncensored	Percent Uncensored
+Low Risk	16	13	44.8275862068966
+High Risk	14	22	61.1111111111111
+x
+1 Results from run 3:
+Censored	Uncensored	Percent Uncensored
+Low Risk	13	17	56.6666666666667
+High Risk	17	18	51.4285714285714
+x
+1 Overall average results across all CV runs:
+Censored	Uncensored	Percent Uncensored
+Low Risk	14.6666666666667	14.3333333333333	49.4252873563218
+High Risk	14.6666666666667	17.3333333333333	54.1666666666667

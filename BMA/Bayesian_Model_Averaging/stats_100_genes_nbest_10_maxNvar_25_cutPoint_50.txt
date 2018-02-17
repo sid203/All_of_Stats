@@ -1,0 +1,2847 @@
+x
+1 Stats for fold 1 in run 1
+V1
+n c(5, 1)
+obs c(2, 0)
+exp c(1.66666666666667, 0.333333333333333)
+var c(0.222222222222222, -0.222222222222222, -0.222222222222222, 0.222222222222222)
+chisq 0.5
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.479500122186953
+x
+1 Stats for fold 2 in run 1
+V1
+n c(4, 3)
+obs c(3, 1)
+exp c(1.87142857142857, 2.12857142857143)
+var c(0.854897959183674, -0.854897959183673, -0.854897959183673, 0.854897959183673)
+chisq 1.48985438052041
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.222239054901058
+x
+1 Stats for fold 3 in run 1
+V1
+n c(3, 3)
+obs c(3, 0)
+exp c(1.15, 1.85)
+var c(0.6775, -0.6775, -0.6775, 0.6775)
+chisq 5.05166051660517
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0246023499536417
+x
+1 Stats for fold 4 in run 1
+V1
+n c(1, 6)
+obs c(0, 4)
+exp c(0.842857142857143, 3.15714285714286)
+var c(0.643560090702948, -0.643560090702948, -0.643560090702948, 0.643560090702948)
+chisq 1.10387230893908
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.293417862229119
+x
+1 Stats for fold 5 in run 1
+V1
+n c(3, 3)
+obs c(1, 3)
+exp c(1.73333333333333, 2.26666666666667)
+var c(0.962222222222222, -0.962222222222222, -0.962222222222222, 0.962222222222222)
+chisq 0.558891454965358
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.454707237302737
+x
+1 Stats for fold 6 in run 1
+V1
+n c(2, 5)
+obs c(1, 4)
+exp c(0.685714285714286, 4.31428571428571)
+var c(0.444081632653061, -0.444081632653061, -0.444081632653061, 0.444081632653061)
+chisq 0.222426470588235
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.637197256708759
+x
+1 Stats for fold 7 in run 1
+V1
+n c(4, 2)
+obs c(2, 2)
+exp c(3.21666666666667, 0.783333333333333)
+var c(0.569722222222222, -0.569722222222222, -0.569722222222222, 0.569722222222222)
+chisq 2.59824475865432
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.106982139427771
+x
+1 Stats for fold 8 in run 1
+V1
+n c(1, 6)
+obs c(1, 0)
+exp c(0.2, 0.8)
+var c(0.16, -0.16, -0.16, 0.16)
+chisq 4
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0455002638963585
+x
+1 Stats for fold 9 in run 1
+V1
+n c(3, 3)
+obs c(3, 2)
+exp c(1.58333333333333, 3.41666666666667)
+var c(0.809722222222222, -0.809722222222222, -0.809722222222222, 0.809722222222222)
+chisq 2.47855917667238
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.115407931978087
+x
+1 Stats for fold 10 in run 1
+V1
+n c(2, 5)
+obs c(2, 1)
+exp c(0.771428571428571, 2.22857142857143)
+var c(0.500136054421769, -0.500136054421769, -0.500136054421769, 0.500136054421769)
+chisq 3.01795429815016
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0823472811135657
+x
+1 Stats for fold 1 in run 2
+V1
+n c(3, 3)
+obs c(2, 2)
+exp c(2.06666666666667, 1.93333333333333)
+var c(0.962222222222222, -0.962222222222222, -0.962222222222222, 0.962222222222222)
+chisq 0.00461893764434183
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.945815273670587
+x
+1 Stats for fold 2 in run 2
+V1
+n c(4, 3)
+obs c(2, 1)
+exp c(1.32142857142857, 1.67857142857143)
+var c(0.682397959183674, -0.682397959183674, -0.682397959183674, 0.682397959183674)
+chisq 0.674766355140187
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.411394757831041
+x
+1 Stats for fold 4 in run 2
+V1
+n c(4, 3)
+obs c(1, 1)
+exp c(1.23809523809524, 0.761904761904762)
+var c(0.467120181405896, -0.467120181405896, -0.467120181405896, 0.467120181405896)
+chisq 0.121359223300971
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.727564952459421
+x
+1 Stats for fold 5 in run 2
+V1
+n c(3, 3)
+obs c(2, 1)
+exp c(1.4, 1.6)
+var c(0.74, -0.74, -0.74, 0.74)
+chisq 0.486486486486487
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.485498802644282
+x
+1 Stats for fold 6 in run 2
+V1
+n 3:4
+obs c(0, 3)
+exp c(1.32857142857143, 1.67142857142857)
+var c(0.734897959183674, -0.734897959183674, -0.734897959183674, 0.734897959183674)
+chisq 2.4018328242155
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.121193184401576
+x
+1 Stats for fold 7 in run 2
+V1
+n c(5, 1)
+obs c(3, 0)
+exp c(2.38333333333333, 0.616666666666667)
+var c(0.486388888888889, -0.486388888888889, -0.486388888888889, 0.486388888888889)
+chisq 0.781838949171902
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.376579313202682
+x
+1 Stats for fold 9 in run 2
+V1
+n c(3, 3)
+obs c(0, 2)
+exp c(1.1, 0.9)
+var c(0.49, -0.49, -0.49, 0.49)
+chisq 2.46938775510204
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.116083133738655
+x
+1 Stats for fold 10 in run 2
+V1
+n c(5, 2)
+obs c(2, 0)
+exp c(1.31428571428571, 0.685714285714286)
+var c(0.444081632653061, -0.444081632653061, -0.444081632653061, 0.444081632653061)
+chisq 1.05882352941176
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.303483664024842
+x
+1 Stats for fold 1 in run 3
+V1
+n c(5, 1)
+obs c(2, 1)
+exp c(2.83333333333333, 0.166666666666667)
+var c(0.138888888888889, -0.138888888888889, -0.138888888888889, 0.138888888888889)
+chisq 5
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0253473186774683
+x
+1 Stats for fold 2 in run 3
+V1
+n c(5, 2)
+obs c(3, 2)
+exp c(4.38095238095238, 0.619047619047619)
+var c(0.426303854875284, -0.426303854875283, -0.426303854875283, 0.426303854875283)
+chisq 4.47340425531915
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0344263357163713
+x
+1 Stats for fold 4 in run 3
+V1
+n c(2, 5)
+obs c(0, 4)
+exp c(1.45238095238095, 2.54761904761905)
+var c(0.809637188208617, -0.809637188208617, -0.809637188208617, 0.809637188208617)
+chisq 2.60537739812351
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.106501801510212
+x
+1 Stats for fold 5 in run 3
+V1
+n c(4, 2)
+obs c(2, 0)
+exp c(1.26666666666667, 0.733333333333333)
+var c(0.462222222222222, -0.462222222222222, -0.462222222222222, 0.462222222222222)
+chisq 1.16346153846154
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.280748802948155
+x
+1 Stats for fold 6 in run 3
+V1
+n 3:4
+obs c(1, 3)
+exp c(1.66190476190476, 2.33809523809524)
+var c(0.957120181405896, -0.957120181405896, -0.957120181405896, 0.957120181405896)
+chisq 0.457745978345851
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.498679281465346
+x
+1 Stats for fold 7 in run 3
+V1
+n c(4, 2)
+obs c(1, 2)
+exp c(2.46666666666667, 0.533333333333333)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 5.62790697674419
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0176767254458422
+x
+1 Stats for fold 8 in run 3
+V1
+n c(2, 5)
+obs c(1, 2)
+exp c(0.952380952380952, 2.04761904761905)
+var c(0.648526077097506, -0.648526077097506, -0.648526077097506, 0.648526077097506)
+chisq 0.00349650349650347
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.952847576564953
+x
+1 Stats for fold 9 in run 3
+V1
+n c(4, 2)
+obs c(2, 1)
+exp c(2.21666666666667, 0.783333333333333)
+var c(0.569722222222222, -0.569722222222222, -0.569722222222222, 0.569722222222222)
+chisq 0.0823988298391029
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.774072532397364
+x
+1 Stats for fold 10 in run 3
+V1
+n c(4, 3)
+obs c(2, 0)
+exp c(0.971428571428571, 1.02857142857143)
+var c(0.484897959183673, -0.484897959183674, -0.484897959183673, 0.484897959183674)
+chisq 2.18181818181818
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.139649398610429
+x
+1 Stats for fold 1 in run 4
+V1
+n c(3, 3)
+obs c(2, 1)
+exp c(1.33333333333333, 1.66666666666667)
+var c(0.722222222222222, -0.722222222222222, -0.722222222222222, 0.722222222222222)
+chisq 0.615384615384615
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.432767580667785
+x
+1 Stats for fold 2 in run 4
+V1
+n c(4, 3)
+obs c(2, 3)
+exp c(3.19285714285714, 1.80714285714286)
+var c(1.00566326530612, -1.00566326530612, -1.00566326530612, 1.00566326530612)
+chisq 1.41489523616255
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.23424545298177
+x
+1 Stats for fold 3 in run 4
+V1
+n c(4, 2)
+obs c(1, 1)
+exp c(0.666666666666667, 1.33333333333333)
+var c(0.222222222222222, -0.222222222222222, -0.222222222222222, 0.222222222222222)
+chisq 0.5
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.479500122186954
+x
+1 Stats for fold 4 in run 4
+V1
+n c(2, 5)
+obs c(2, 3)
+exp c(0.902380952380952, 4.09761904761905)
+var c(0.69047052154195, -0.69047052154195, -0.69047052154195, 0.69047052154195)
+chisq 1.74485012192218
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.186525455786851
+x
+1 Stats for fold 5 in run 4
+V1
+n c(2, 4)
+obs c(1, 2)
+exp c(1.06666666666667, 1.93333333333333)
+var c(0.684444444444444, -0.684444444444444, -0.684444444444444, 0.684444444444444)
+chisq 0.00649350649350653
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.935774145836325
+x
+1 Stats for fold 6 in run 4
+V1
+n c(2, 5)
+obs c(1, 2)
+exp c(0.652380952380952, 2.34761904761905)
+var c(0.50297052154195, -0.50297052154195, -0.50297052154195, 0.50297052154195)
+chisq 0.240250664983545
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.624025129921492
+x
+1 Stats for fold 7 in run 4
+V1
+n c(5, 1)
+obs c(4, 0)
+exp c(2.88333333333333, 1.11666666666667)
+var c(0.736388888888889, -0.736388888888889, -0.736388888888889, 0.736388888888889)
+chisq 1.69332327423614
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.193163467213772
+x
+1 Stats for fold 8 in run 4
+V1
+n c(4, 3)
+obs c(1, 2)
+exp c(2.03809523809524, 0.961904761904762)
+var c(0.627120181405896, -0.627120181405896, -0.627120181405896, 0.627120181405896)
+chisq 1.71839745444027
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.189899458503641
+x
+1 Stats for fold 9 in run 4
+V1
+n c(4, 2)
+obs c(2, 2)
+exp c(3.46666666666667, 0.533333333333333)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 5.62790697674419
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0176767254458422
+x
+1 Stats for fold 10 in run 4
+V1
+n 3:4
+obs c(1, 2)
+exp c(1.01190476190476, 1.98809523809524)
+var c(0.654620181405896, -0.654620181405896, -0.654620181405896, 0.654620181405896)
+chisq 0.000216497077289463
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.988260478108847
+x
+1 Stats for fold 1 in run 5
+V1
+n c(1, 5)
+obs c(0, 4)
+exp c(0.95, 3.05)
+var c(0.708611111111111, -0.708611111111111, -0.708611111111111, 0.708611111111111)
+chisq 1.27361818894551
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.259089005980697
+x
+1 Stats for fold 2 in run 5
+V1
+n c(5, 2)
+obs c(4, 1)
+exp c(2.81428571428571, 2.18571428571429)
+var c(1.13852607709751, -1.13852607709751, -1.13852607709751, 1.13852607709751)
+chisq 1.23485829233803
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.266464292215694
+x
+1 Stats for fold 3 in run 5
+V1
+n c(2, 4)
+obs c(1, 2)
+exp c(0.983333333333333, 2.01666666666667)
+var c(0.649722222222222, -0.649722222222222, -0.649722222222222, 0.649722222222222)
+chisq 0.000427533133817868
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.983503416653526
+x
+1 Stats for fold 5 in run 5
+V1
+n c(2, 4)
+obs c(1, 3)
+exp c(1.31666666666667, 2.68333333333333)
+var c(0.871944444444444, -0.871944444444445, -0.871944444444444, 0.871944444444444)
+chisq 0.115004778591908
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.734516662154656
+x
+1 Stats for fold 6 in run 5
+V1
+n 3:4
+obs c(2, 2)
+exp c(1.42857142857143, 2.57142857142857)
+var c(0.822675736961451, -0.822675736961451, -0.822675736961451, 0.822675736961451)
+chisq 0.396912899669239
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.528687886041983
+x
+1 Stats for fold 7 in run 5
+V1
+n c(1, 5)
+obs c(0, 2)
+exp c(0.366666666666667, 1.63333333333333)
+var c(0.298888888888889, -0.298888888888889, -0.298888888888889, 0.298888888888889)
+chisq 0.449814126394052
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.502423235983792
+x
+1 Stats for fold 8 in run 5
+V1
+n c(2, 5)
+obs c(2, 2)
+exp c(0.652380952380952, 3.34761904761905)
+var c(0.50297052154195, -0.50297052154195, -0.50297052154195, 0.50297052154195)
+chisq 3.61070285379379
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0574088522753389
+x
+1 Stats for fold 9 in run 5
+V1
+n c(1, 5)
+obs c(1, 2)
+exp c(0.166666666666667, 2.83333333333333)
+var c(0.138888888888889, -0.138888888888889, -0.138888888888889, 0.138888888888889)
+chisq 5
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0253473186774682
+x
+1 Stats for fold 10 in run 5
+V1
+n c(4, 3)
+obs c(3, 1)
+exp c(2.67142857142857, 1.32857142857143)
+var c(0.734897959183674, -0.734897959183674, -0.734897959183674, 0.734897959183674)
+chisq 0.146903637878367
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.701512089915247
+x
+1 Stats for fold 1 in run 6
+V1
+n c(4, 2)
+obs c(0, 2)
+exp c(1.41666666666667, 0.583333333333333)
+var c(0.409722222222222, -0.409722222222222, -0.409722222222222, 0.409722222222222)
+chisq 4.89830508474576
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0268830685440037
+x
+1 Stats for fold 2 in run 6
+V1
+n 3:4
+obs c(2, 3)
+exp c(2.52857142857143, 2.47142857142857)
+var c(1.23489795918367, -1.23489795918367, -1.23489795918367, 1.23489795918367)
+chisq 0.226243596099818
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.634323243199205
+x
+1 Stats for fold 3 in run 6
+V1
+n c(4, 2)
+obs c(0, 1)
+exp c(0.666666666666667, 0.333333333333333)
+var c(0.222222222222222, -0.222222222222222, -0.222222222222222, 0.222222222222222)
+chisq 2
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.157299207050284
+x
+1 Stats for fold 4 in run 6
+V1
+n c(5, 2)
+obs c(4, 2)
+exp c(5.38095238095238, 0.619047619047619)
+var c(0.426303854875284, -0.426303854875283, -0.426303854875283, 0.426303854875283)
+chisq 4.47340425531915
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0344263357163713
+x
+1 Stats for fold 5 in run 6
+V1
+n c(3, 3)
+obs c(2, 2)
+exp c(1.15, 2.85)
+var c(0.6775, -0.6775, -0.6775, 0.6775)
+chisq 1.06642066420664
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.301755334828972
+x
+1 Stats for fold 6 in run 6
+V1
+n c(5, 2)
+obs c(1, 1)
+exp c(1.71428571428571, 0.285714285714286)
+var c(0.204081632653061, -0.204081632653061, -0.204081632653061, 0.204081632653061)
+chisq 2.5
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.113846298006658
+x
+1 Stats for fold 7 in run 6
+V1
+n c(4, 2)
+obs c(4, 0)
+exp c(2.2, 1.8)
+var c(0.804444444444444, -0.804444444444444, -0.804444444444444, 0.804444444444444)
+chisq 4.02762430939227
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0447609301094781
+x
+1 Stats for fold 8 in run 6
+V1
+n 3:4
+obs c(2, 3)
+exp c(1.57857142857143, 3.42142857142857)
+var c(0.922397959183674, -0.922397959183674, -0.922397959183674, 0.922397959183674)
+chisq 0.192543835389126
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.660807785281732
+x
+1 Stats for fold 9 in run 6
+V1
+n c(1, 5)
+obs c(1, 2)
+exp c(0.166666666666667, 2.83333333333333)
+var c(0.138888888888889, -0.138888888888889, -0.138888888888889, 0.138888888888889)
+chisq 5
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0253473186774682
+x
+1 Stats for fold 10 in run 6
+V1
+n c(4, 3)
+obs c(0, 3)
+exp c(2.03809523809524, 0.961904761904762)
+var c(0.627120181405896, -0.627120181405896, -0.627120181405896, 0.627120181405896)
+chisq 6.62366213479896
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0100632703746348
+x
+1 Stats for fold 1 in run 7
+V1
+n c(1, 5)
+obs c(1, 4)
+exp c(0.366666666666667, 4.63333333333333)
+var c(0.298888888888889, -0.298888888888889, -0.298888888888889, 0.298888888888889)
+chisq 1.34200743494424
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.246680263071705
+x
+1 Stats for fold 2 in run 7
+V1
+n c(2, 5)
+obs c(2, 2)
+exp c(0.619047619047619, 3.38095238095238)
+var c(0.426303854875283, -0.426303854875283, -0.426303854875283, 0.426303854875284)
+chisq 4.47340425531915
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0344263357163713
+x
+1 Stats for fold 3 in run 7
+V1
+n c(5, 1)
+obs c(3, 0)
+exp c(2.13333333333333, 0.866666666666667)
+var c(0.548888888888889, -0.548888888888889, -0.548888888888889, 0.548888888888889)
+chisq 1.36842105263158
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.242083354029331
+x
+1 Stats for fold 5 in run 7
+V1
+n c(3, 3)
+obs c(1, 1)
+exp c(1.1, 0.9)
+var c(0.49, -0.49, -0.49, 0.49)
+chisq 0.0204081632653061
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.886403006367064
+x
+1 Stats for fold 6 in run 7
+V1
+n c(4, 3)
+obs c(1, 2)
+exp c(1.73809523809524, 1.26190476190476)
+var c(0.717120181405896, -0.717120181405896, -0.717120181405896, 0.717120181405896)
+chisq 0.759683794466403
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.383427496471171
+x
+1 Stats for fold 7 in run 7
+V1
+n c(1, 5)
+obs c(0, 3)
+exp c(0.616666666666667, 2.38333333333333)
+var c(0.486388888888889, -0.486388888888889, -0.486388888888889, 0.486388888888889)
+chisq 0.781838949171902
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.376579313202682
+x
+1 Stats for fold 8 in run 7
+V1
+n c(5, 2)
+obs c(2, 2)
+exp c(3.34761904761905, 0.652380952380952)
+var c(0.50297052154195, -0.50297052154195, -0.50297052154195, 0.50297052154195)
+chisq 3.61070285379379
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0574088522753389
+x
+1 Stats for fold 9 in run 7
+V1
+n c(4, 2)
+obs c(4, 1)
+exp c(2.1, 2.9)
+var c(0.934444444444444, -0.934444444444444, -0.934444444444445, 0.934444444444444)
+chisq 3.86325802615933
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0493544021361995
+x
+1 Stats for fold 10 in run 7
+V1
+n 3:4
+obs c(3, 2)
+exp c(1.91190476190476, 3.08809523809524)
+var c(1.1446201814059, -1.1446201814059, -1.1446201814059, 1.1446201814059)
+chisq 1.03436167420299
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.309136432858307
+x
+1 Stats for fold 1 in run 8
+V1
+n c(1, 5)
+obs c(1, 2)
+exp c(0.366666666666667, 2.63333333333333)
+var c(0.298888888888889, -0.298888888888889, -0.298888888888889, 0.298888888888889)
+chisq 1.34200743494424
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.246680263071705
+x
+1 Stats for fold 2 in run 8
+V1
+n c(4, 3)
+obs c(2, 2)
+exp c(1.4047619047619, 2.59523809523809)
+var c(0.717120181405896, -0.717120181405896, -0.717120181405896, 0.717120181405896)
+chisq 0.494071146245059
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.482116858095283
+x
+1 Stats for fold 3 in run 8
+V1
+n c(3, 3)
+obs c(3, 1)
+exp c(1.48333333333333, 2.51666666666667)
+var c(0.899722222222222, -0.899722222222222, -0.899722222222222, 0.899722222222222)
+chisq 2.55665328805187
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.10983086614129
+x
+1 Stats for fold 4 in run 8
+V1
+n c(5, 2)
+obs c(1, 2)
+exp c(2.13095238095238, 0.869047619047619)
+var c(0.613803854875283, -0.613803854875283, -0.613803854875283, 0.613803854875283)
+chisq 2.08381436157931
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.148867766586121
+x
+1 Stats for fold 5 in run 8
+V1
+n c(5, 1)
+obs c(3, 1)
+exp c(3.05, 0.95)
+var c(0.708611111111111, -0.708611111111111, -0.708611111111111, 0.708611111111111)
+chisq 0.00352802822422582
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.952635737458433
+x
+1 Stats for fold 6 in run 8
+V1
+n c(2, 5)
+obs c(0, 2)
+exp c(0.619047619047619, 1.38095238095238)
+var c(0.426303854875283, -0.426303854875283, -0.426303854875283, 0.426303854875283)
+chisq 0.898936170212766
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.343067123231169
+x
+1 Stats for fold 7 in run 8
+V1
+n c(4, 2)
+obs c(1, 1)
+exp c(1.46666666666667, 0.533333333333333)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 0.569767441860465
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.450351343584874
+x
+1 Stats for fold 8 in run 8
+V1
+n c(5, 2)
+obs c(5, 1)
+exp c(4.39761904761905, 1.60238095238095)
+var c(1.07602607709751, -1.07602607709751, -1.07602607709751, 1.07602607709751)
+chisq 0.337224923739931
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.561435445173254
+x
+1 Stats for fold 9 in run 8
+V1
+n c(2, 4)
+obs c(1, 2)
+exp c(1.06666666666667, 1.93333333333333)
+var c(0.684444444444444, -0.684444444444444, -0.684444444444444, 0.684444444444444)
+chisq 0.00649350649350653
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.935774145836325
+x
+1 Stats for fold 10 in run 8
+V1
+n 3:4
+obs c(2, 2)
+exp c(2.02857142857143, 1.97142857142857)
+var c(0.984897959183674, -0.984897959183674, -0.984897959183674, 0.984897959183674)
+chisq 0.000828843762950691
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.977032358114451
+x
+1 Stats for fold 1 in run 9
+V1
+n c(5, 1)
+obs c(2, 1)
+exp c(2.58333333333333, 0.416666666666667)
+var c(0.326388888888889, -0.326388888888889, -0.326388888888889, 0.326388888888889)
+chisq 1.04255319148936
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.307228409730697
+x
+1 Stats for fold 2 in run 9
+V1
+n 3:4
+obs c(1, 3)
+exp c(2.02857142857143, 1.97142857142857)
+var c(0.984897959183674, -0.984897959183674, -0.984897959183674, 0.984897959183674)
+chisq 1.07418151678409
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.300002846710972
+x
+1 Stats for fold 3 in run 9
+V1
+n c(4, 2)
+obs c(2, 1)
+exp c(2.21666666666667, 0.783333333333333)
+var c(0.569722222222222, -0.569722222222222, -0.569722222222222, 0.569722222222222)
+chisq 0.0823988298391029
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.774072532397364
+x
+1 Stats for fold 4 in run 9
+V1
+n 3:4
+obs c(2, 1)
+exp c(1.4952380952381, 1.5047619047619)
+var c(0.707120181405896, -0.707120181405896, -0.707120181405896, 0.707120181405896)
+chisq 0.360312981015905
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.548332465235009
+x
+1 Stats for fold 5 in run 9
+V1
+n c(2, 4)
+obs c(0, 4)
+exp c(1.56666666666667, 2.43333333333333)
+var c(0.934444444444444, -0.934444444444445, -0.934444444444444, 0.934444444444444)
+chisq 2.62663495838288
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.105084213336519
+x
+1 Stats for fold 6 in run 9
+V1
+n 3:4
+obs c(2, 2)
+exp c(1.16190476190476, 2.83809523809524)
+var c(0.707120181405896, -0.707120181405896, -0.707120181405896, 0.707120181405896)
+chisq 0.993329912775782
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.318929874369145
+x
+1 Stats for fold 7 in run 9
+V1
+n c(3, 3)
+obs c(3, 2)
+exp c(3.01666666666667, 1.98333333333333)
+var c(1.14972222222222, -1.14972222222222, -1.14972222222222, 1.14972222222222)
+chisq 0.000241604252234838
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.987598481637094
+x
+1 Stats for fold 8 in run 9
+V1
+n c(4, 3)
+obs c(4, 1)
+exp c(1.8047619047619, 3.19523809523809)
+var c(0.957120181405896, -0.957120181405896, -0.957120181405896, 0.957120181405896)
+chisq 5.03496884550688
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0248405335736139
+x
+1 Stats for fold 9 in run 9
+V1
+n c(4, 2)
+obs c(1, 1)
+exp c(1.46666666666667, 0.533333333333333)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 0.569767441860465
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.450351343584874
+x
+1 Stats for fold 10 in run 9
+V1
+n 3:4
+obs c(1, 1)
+exp c(1.42857142857143, 0.571428571428571)
+var c(0.244897959183673, -0.244897959183673, -0.244897959183673, 0.244897959183673)
+chisq 0.75
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.386476230771233
+x
+1 Stats for fold 1 in run 10
+V1
+n c(3, 3)
+obs c(1, 1)
+exp c(1.25, 0.75)
+var c(0.4375, -0.4375, -0.4375, 0.4375)
+chisq 0.142857142857143
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.705456986111273
+x
+1 Stats for fold 2 in run 10
+V1
+n c(5, 2)
+obs c(3, 1)
+exp c(2.73095238095238, 1.26904761904762)
+var c(0.853803854875283, -0.853803854875283, -0.853803854875284, 0.853803854875283)
+chisq 0.0847813240732748
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.770919525845521
+x
+1 Stats for fold 4 in run 10
+V1
+n 3:4
+obs c(2, 1)
+exp c(0.761904761904762, 2.23809523809524)
+var c(0.467120181405896, -0.467120181405896, -0.467120181405896, 0.467120181405896)
+chisq 3.28155339805825
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0700625863248378
+x
+1 Stats for fold 5 in run 10
+V1
+n c(3, 3)
+obs c(3, 1)
+exp c(1.25, 2.75)
+var c(0.5875, -0.5875, -0.5875, 0.5875)
+chisq 5.21276595744681
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0224216368943235
+x
+1 Stats for fold 6 in run 10
+V1
+n c(4, 3)
+obs c(4, 0)
+exp c(1.9047619047619, 2.09523809523809)
+var c(0.967120181405896, -0.967120181405896, -0.967120181405896, 0.967120181405896)
+chisq 4.53927315357562
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0331256547892564
+x
+1 Stats for fold 7 in run 10
+V1
+n c(5, 1)
+obs c(2, 1)
+exp c(2.13333333333333, 0.866666666666667)
+var c(0.548888888888889, -0.548888888888889, -0.548888888888889, 0.548888888888889)
+chisq 0.0323886639676114
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.857177291262106
+x
+1 Stats for fold 8 in run 10
+V1
+n c(1, 6)
+obs c(0, 4)
+exp c(0.842857142857143, 3.15714285714286)
+var c(0.643560090702948, -0.643560090702948, -0.643560090702948, 0.643560090702948)
+chisq 1.10387230893908
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.293417862229119
+x
+1 Stats for fold 10 in run 10
+V1
+n 3:4
+obs c(3, 1)
+exp c(1.21190476190476, 2.78809523809524)
+var c(0.814620181405896, -0.814620181405896, -0.814620181405896, 0.814620181405896)
+chisq 3.92487769573901
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0475766509428883
+x
+1 Stats for fold 1 in run 1
+V1
+n c(5, 16)
+obs c(2, 11)
+exp c(4.10630932534957, 8.89369067465043)
+var c(2.6689553154291, -2.6689553154291, -2.6689553154291, 2.6689553154291)
+chisq 1.6622754785017
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.197296373192739
+x
+1 Stats for fold 1 in run 1
+V1
+n c(11, 10)
+obs c(6, 7)
+exp c(8.61058517505886, 4.38941482494114)
+var c(2.67076275942262, -2.67076275942262, -2.67076275942262, 2.67076275942262)
+chisq 2.55176351107667
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.110171220948091
+x
+1 Stats for fold 2 in run 1
+V1
+n c(14, 8)
+obs c(7, 4)
+exp c(7.00351625498684, 3.99648374501316)
+var c(2.4526912607288, -2.4526912607288, -2.4526912607288, 2.4526912607288)
+chisq 5.04101324551612e-06
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.998208575060932
+x
+1 Stats for fold 3 in run 1
+V1
+n c(11, 11)
+obs c(4, 7)
+exp c(6.65780739728108, 4.34219260271892)
+var c(2.53229825324978, -2.53229825324978, -2.53229825324978, 2.53229825324978)
+chisq 2.78953719293398
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0948816264972528
+x
+1 Stats for fold 1 in run 2
+V1
+n c(7, 14)
+obs c(6, 4)
+exp c(3.06586162375636, 6.93413837624364)
+var c(1.54218634898013, -1.54218634898013, -1.54218634898013, 1.54218634898013)
+chisq 5.58244340357379
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0181413950754261
+x
+1 Stats for fold 2 in run 2
+V1
+n c(7, 15)
+obs c(4, 8)
+exp c(3.80029480323598, 8.19970519676402)
+var c(2.55975216946588, -2.55975216946588, -2.55975216946588, 2.55975216946588)
+chisq 0.0155804792707251
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.900664636341032
+x
+1 Stats for fold 1 in run 1
+V1
+n c(8, 13)
+obs c(3, 8)
+exp c(4.76335770352798, 6.23664229647202)
+var c(2.58106113829014, -2.58106113829014, -2.58106113829014, 2.58106113829014)
+chisq 1.2047100878251
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.272382311720636
+x
+1 Stats for fold 2 in run 1
+V1
+n c(9, 13)
+obs c(6, 6)
+exp c(4.20943745796687, 7.79056254203313)
+var c(2.59453120747489, -2.59453120747489, -2.59453120747489, 2.59453120747489)
+chisq 1.23572004364229
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.266297502956626
+x
+1 Stats for fold 3 in run 1
+V1
+n c(6, 16)
+obs c(3, 9)
+exp c(4.45686228975703, 7.54313771024297)
+var c(2.74664592982645, -2.74664592982645, -2.74664592982645, 2.74664592982645)
+chisq 0.772741658569074
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.379370232384868
+x
+1 Stats for fold 1 in run 2
+V1
+n c(13, 8)
+obs c(11, 1)
+exp c(6.29995128280732, 5.70004871719268)
+var c(2.9209206949654, -2.9209206949654, -2.9209206949654, 2.9209206949654)
+chisq 7.56284071048572
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.00595839993435754
+x
+1 Stats for fold 2 in run 2
+V1
+n c(11, 11)
+obs c(7, 4)
+exp c(4.20947298315719, 6.79052701684281)
+var c(2.35027869115402, -2.35027869115402, -2.35027869115402, 2.35027869115402)
+chisq 3.31324155770908
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0687238063143258
+x
+1 Stats for fold 3 in run 2
+V1
+n c(7, 15)
+obs c(3, 9)
+exp c(4.55728854478854, 7.44271145521145)
+var c(2.5964761807146, -2.5964761807146, -2.5964761807146, 2.5964761807146)
+chisq 0.934014966030683
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.333821807285043
+x
+1 Stats for fold 1 in run 1
+V1
+n c(5, 1)
+obs c(2, 0)
+exp c(1.63333333333333, 0.366666666666667)
+var c(0.298888888888889, -0.298888888888889, -0.298888888888889, 0.298888888888889)
+chisq 0.449814126394052
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.502423235983792
+x
+1 Stats for fold 2 in run 1
+V1
+n c(4, 3)
+obs c(3, 2)
+exp c(1.72142857142857, 3.27857142857143)
+var c(0.922397959183674, -0.922397959183674, -0.922397959183674, 0.922397959183674)
+chisq 1.77227722772277
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.183100505095764
+x
+1 Stats for fold 3 in run 1
+V1
+n c(3, 3)
+obs c(2, 3)
+exp c(3.26666666666667, 1.73333333333333)
+var c(0.962222222222222, -0.962222222222222, -0.962222222222222, 0.962222222222222)
+chisq 1.66743648960739
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.196602247634338
+x
+1 Stats for fold 4 in run 1
+V1
+n c(5, 2)
+obs c(2, 0)
+exp c(1.46428571428571, 0.535714285714286)
+var c(0.391581632653061, -0.391581632653061, -0.391581632653061, 0.391581632653061)
+chisq 0.732899022801303
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.391945113340644
+x
+1 Stats for fold 5 in run 1
+V1
+n c(2, 4)
+obs c(2, 2)
+exp c(1.11666666666667, 2.88333333333333)
+var c(0.791944444444444, -0.791944444444444, -0.791944444444444, 0.791944444444444)
+chisq 0.985268326902841
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.320901593063917
+x
+1 Stats for fold 6 in run 1
+V1
+n c(6, 1)
+obs c(4, 1)
+exp c(3.68095238095238, 1.31904761904762)
+var c(0.836303854875283, -0.836303854875283, -0.836303854875283, 0.836303854875283)
+chisq 0.121715788617445
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.72718097777236
+x
+1 Stats for fold 7 in run 1
+V1
+n c(4, 2)
+obs c(1, 1)
+exp c(1.26666666666667, 0.733333333333333)
+var c(0.462222222222222, -0.462222222222222, -0.462222222222222, 0.462222222222222)
+chisq 0.153846153846154
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.694886602372474
+x
+1 Stats for fold 8 in run 1
+V1
+n c(2, 5)
+obs c(0, 5)
+exp c(2.18571428571429, 2.81428571428571)
+var c(1.13852607709751, -1.13852607709751, -1.13852607709751, 1.13852607709751)
+chisq 4.1960803839949
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0405175279948482
+x
+1 Stats for fold 9 in run 1
+V1
+n c(4, 2)
+obs c(3, 0)
+exp c(1.76666666666667, 1.23333333333333)
+var c(0.712222222222222, -0.712222222222222, -0.712222222222222, 0.712222222222222)
+chisq 2.13572542901716
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.1439023723891
+x
+1 Stats for fold 10 in run 1
+V1
+n c(2, 5)
+obs c(0, 2)
+exp c(0.619047619047619, 1.38095238095238)
+var c(0.426303854875283, -0.426303854875283, -0.426303854875283, 0.426303854875283)
+chisq 0.898936170212766
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.343067123231169
+x
+1 Stats for fold 1 in run 2
+V1
+n c(2, 4)
+obs c(1, 0)
+exp c(0.333333333333333, 0.666666666666667)
+var c(0.222222222222222, -0.222222222222222, -0.222222222222222, 0.222222222222222)
+chisq 2
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.157299207050285
+x
+1 Stats for fold 2 in run 2
+V1
+n c(4, 3)
+obs c(2, 2)
+exp c(3.03809523809524, 0.961904761904762)
+var c(0.627120181405896, -0.627120181405896, -0.627120181405896, 0.627120181405896)
+chisq 1.71839745444027
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.189899458503641
+x
+1 Stats for fold 3 in run 2
+V1
+n c(3, 3)
+obs c(2, 1)
+exp c(1.4, 1.6)
+var c(0.74, -0.74, -0.74, 0.74)
+chisq 0.486486486486487
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.485498802644282
+x
+1 Stats for fold 5 in run 2
+V1
+n c(4, 2)
+obs c(1, 1)
+exp c(1.41666666666667, 0.583333333333333)
+var c(0.409722222222222, -0.409722222222222, -0.409722222222222, 0.409722222222222)
+chisq 0.423728813559322
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.515082278709643
+x
+1 Stats for fold 6 in run 2
+V1
+n c(4, 3)
+obs c(3, 0)
+exp c(1.47142857142857, 1.52857142857143)
+var c(0.734897959183674, -0.734897959183674, -0.734897959183674, 0.734897959183674)
+chisq 3.17939461260761
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0745723539112222
+x
+1 Stats for fold 7 in run 2
+V1
+n c(2, 4)
+obs c(2, 1)
+exp c(0.533333333333333, 2.46666666666667)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 5.62790697674419
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0176767254458422
+x
+1 Stats for fold 8 in run 2
+V1
+n c(4, 3)
+obs c(3, 2)
+exp c(1.4047619047619, 3.59523809523809)
+var c(0.717120181405896, -0.717120181405896, -0.717120181405896, 0.717120181405896)
+chisq 3.54861660079051
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0595951166294501
+x
+1 Stats for fold 9 in run 2
+V1
+n c(2, 4)
+obs c(1, 2)
+exp c(1.23333333333333, 1.76666666666667)
+var c(0.712222222222222, -0.712222222222222, -0.712222222222222, 0.712222222222222)
+chisq 0.0764430577223089
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.782176825525589
+x
+1 Stats for fold 10 in run 2
+V1
+n c(5, 2)
+obs c(3, 1)
+exp c(2.54761904761905, 1.45238095238095)
+var c(0.809637188208617, -0.809637188208617, -0.809637188208617, 0.809637188208617)
+chisq 0.252765719086962
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.615134347270081
+x
+1 Stats for fold 1 in run 3
+V1
+n c(2, 4)
+obs c(1, 3)
+exp c(2.23333333333333, 1.76666666666667)
+var c(0.712222222222222, -0.712222222222222, -0.712222222222222, 0.712222222222222)
+chisq 2.13572542901716
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.1439023723891
+x
+1 Stats for fold 2 in run 3
+V1
+n c(5, 2)
+obs c(5, 0)
+exp c(3.04761904761905, 1.95238095238095)
+var c(1.05963718820862, -1.05963718820862, -1.05963718820862, 1.05963718820862)
+chisq 3.59726086026107
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0578748557909134
+x
+1 Stats for fold 4 in run 3
+V1
+n 3:4
+obs c(3, 0)
+exp c(0.961904761904762, 2.03809523809524)
+var c(0.627120181405896, -0.627120181405896, -0.627120181405896, 0.627120181405896)
+chisq 6.62366213479896
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0100632703746348
+x
+1 Stats for fold 5 in run 3
+V1
+n c(2, 4)
+obs c(2, 2)
+exp c(0.533333333333333, 3.46666666666667)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 5.62790697674418
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0176767254458422
+x
+1 Stats for fold 6 in run 3
+V1
+n c(4, 3)
+obs c(2, 2)
+exp c(2.17142857142857, 1.82857142857143)
+var c(0.929342403628118, -0.929342403628118, -0.929342403628118, 0.929342403628118)
+chisq 0.0316220964278743
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.858859605305878
+x
+1 Stats for fold 7 in run 3
+V1
+n c(4, 2)
+obs c(1, 0)
+exp c(0.666666666666667, 0.333333333333333)
+var c(0.222222222222222, -0.222222222222222, -0.222222222222222, 0.222222222222222)
+chisq 0.5
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.479500122186953
+x
+1 Stats for fold 8 in run 3
+V1
+n c(2, 5)
+obs c(0, 2)
+exp c(0.366666666666667, 1.63333333333333)
+var c(0.298888888888889, -0.298888888888889, -0.298888888888889, 0.298888888888889)
+chisq 0.449814126394052
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.502423235983792
+x
+1 Stats for fold 9 in run 3
+V1
+n c(3, 3)
+obs c(2, 2)
+exp c(2.1, 1.9)
+var c(0.823333333333333, -0.823333333333333, -0.823333333333333, 0.823333333333333)
+chisq 0.0121457489878543
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.912244613126852
+x
+1 Stats for fold 10 in run 3
+V1
+n 3:4
+obs c(0, 3)
+exp c(1.52857142857143, 1.47142857142857)
+var c(0.734897959183674, -0.734897959183674, -0.734897959183674, 0.734897959183674)
+chisq 3.17939461260761
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.074572353911223
+x
+1 Stats for fold 1 in run 1
+V1
+n c(2, 4)
+obs c(1, 1)
+exp c(0.833333333333333, 1.16666666666667)
+var c(0.472222222222222, -0.472222222222222, -0.472222222222222, 0.472222222222222)
+chisq 0.0588235294117646
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.808365155914511
+x
+1 Stats for fold 2 in run 1
+V1
+n c(4, 3)
+obs c(3, 2)
+exp c(2.1547619047619, 2.84523809523809)
+var c(1.1546201814059, -1.1546201814059, -1.1546201814059, 1.1546201814059)
+chisq 0.618755370074874
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.431510174529854
+x
+1 Stats for fold 3 in run 1
+V1
+n c(2, 4)
+obs c(1, 1)
+exp c(0.533333333333333, 1.46666666666667)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 0.569767441860465
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.450351343584874
+x
+1 Stats for fold 4 in run 1
+V1
+n c(5, 2)
+obs c(4, 0)
+exp c(2.54761904761905, 1.45238095238095)
+var c(0.809637188208617, -0.809637188208617, -0.809637188208617, 0.809637188208617)
+chisq 2.60537739812351
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.106501801510212
+x
+1 Stats for fold 5 in run 1
+V1
+n c(1, 5)
+obs c(1, 3)
+exp c(0.166666666666667, 3.83333333333333)
+var c(0.138888888888889, -0.138888888888889, -0.138888888888889, 0.138888888888889)
+chisq 5
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0253473186774682
+x
+1 Stats for fold 6 in run 1
+V1
+n 3:4
+obs c(2, 1)
+exp c(0.983333333333333, 2.01666666666667)
+var c(0.649722222222222, -0.649722222222222, -0.649722222222222, 0.649722222222222)
+chisq 1.5908507909363
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.20720462164434
+x
+1 Stats for fold 7 in run 1
+V1
+n c(4, 2)
+obs c(1, 1)
+exp c(1.46666666666667, 0.533333333333333)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 0.569767441860465
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.450351343584874
+x
+1 Stats for fold 8 in run 1
+V1
+n c(4, 3)
+obs c(3, 1)
+exp c(2.89285714285714, 1.10714285714286)
+var c(0.595663265306122, -0.595663265306122, -0.595663265306122, 0.595663265306122)
+chisq 0.0192719486081371
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.88958966771909
+x
+1 Stats for fold 9 in run 1
+V1
+n c(4, 2)
+obs c(2, 1)
+exp c(1.76666666666667, 1.23333333333333)
+var c(0.712222222222222, -0.712222222222222, -0.712222222222222, 0.712222222222222)
+chisq 0.0764430577223089
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.782176825525589
+x
+1 Stats for fold 10 in run 1
+V1
+n 3:4
+obs c(3, 3)
+exp c(1.21190476190476, 4.78809523809524)
+var c(0.814620181405896, -0.814620181405896, -0.814620181405896, 0.814620181405896)
+chisq 3.92487769573901
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0475766509428883
+x
+1 Stats for fold 1 in run 2
+V1
+n c(5, 1)
+obs c(2, 1)
+exp c(2.63333333333333, 0.366666666666667)
+var c(0.298888888888889, -0.298888888888889, -0.298888888888889, 0.298888888888889)
+chisq 1.34200743494424
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.246680263071705
+x
+1 Stats for fold 2 in run 2
+V1
+n c(5, 2)
+obs c(4, 1)
+exp c(3.14761904761905, 1.85238095238095)
+var c(1.13852607709751, -1.13852607709751, -1.13852607709751, 1.13852607709751)
+chisq 0.638152522456134
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.424380588342379
+x
+1 Stats for fold 3 in run 2
+V1
+n c(1, 5)
+obs c(1, 2)
+exp c(0.166666666666667, 2.83333333333333)
+var c(0.138888888888889, -0.138888888888889, -0.138888888888889, 0.138888888888889)
+chisq 5
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0253473186774682
+x
+1 Stats for fold 4 in run 2
+V1
+n c(2, 5)
+obs c(1, 3)
+exp c(1.06904761904762, 2.93095238095238)
+var c(0.773803854875283, -0.773803854875283, -0.773803854875283, 0.773803854875283)
+chisq 0.00616121729829518
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.937435562558642
+x
+1 Stats for fold 5 in run 2
+V1
+n c(1, 5)
+obs c(1, 2)
+exp c(0.366666666666667, 2.63333333333333)
+var c(0.298888888888889, -0.298888888888889, -0.298888888888889, 0.298888888888889)
+chisq 1.34200743494424
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.246680263071705
+x
+1 Stats for fold 6 in run 2
+V1
+n c(4, 3)
+obs c(1, 2)
+exp c(2.03809523809524, 0.961904761904762)
+var c(0.627120181405896, -0.627120181405896, -0.627120181405896, 0.627120181405896)
+chisq 1.71839745444027
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.189899458503641
+x
+1 Stats for fold 7 in run 2
+V1
+n c(2, 4)
+obs c(2, 2)
+exp c(0.983333333333333, 3.01666666666667)
+var c(0.649722222222222, -0.649722222222222, -0.649722222222222, 0.649722222222222)
+chisq 1.5908507909363
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.20720462164434
+x
+1 Stats for fold 8 in run 2
+V1
+n 3:4
+obs c(1, 2)
+exp c(1.16190476190476, 1.83809523809524)
+var c(0.707120181405896, -0.707120181405896, -0.707120181405896, 0.707120181405896)
+chisq 0.0370702924576706
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.847322002982586
+x
+1 Stats for fold 9 in run 2
+V1
+n c(4, 2)
+obs c(2, 2)
+exp c(2.71666666666667, 1.28333333333333)
+var c(0.819722222222222, -0.819722222222222, -0.819722222222222, 0.819722222222222)
+chisq 0.626567265333785
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.428617266371838
+x
+1 Stats for fold 10 in run 2
+V1
+n c(2, 5)
+obs c(0, 3)
+exp c(0.619047619047619, 2.38095238095238)
+var c(0.426303854875283, -0.426303854875283, -0.426303854875283, 0.426303854875283)
+chisq 0.898936170212766
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.343067123231169
+x
+1 Stats for fold 1 in run 3
+V1
+n c(2, 4)
+obs c(0, 2)
+exp c(0.733333333333333, 1.26666666666667)
+var c(0.462222222222222, -0.462222222222222, -0.462222222222222, 0.462222222222222)
+chisq 1.16346153846154
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.280748802948155
+x
+1 Stats for fold 2 in run 3
+V1
+n c(4, 3)
+obs c(2, 2)
+exp c(3.03809523809524, 0.961904761904762)
+var c(0.627120181405896, -0.627120181405896, -0.627120181405896, 0.627120181405896)
+chisq 1.71839745444027
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.189899458503641
+x
+1 Stats for fold 3 in run 3
+V1
+n c(1, 5)
+obs c(0, 3)
+exp c(0.616666666666667, 2.38333333333333)
+var c(0.486388888888889, -0.486388888888889, -0.486388888888889, 0.486388888888889)
+chisq 0.781838949171902
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.376579313202682
+x
+1 Stats for fold 4 in run 3
+V1
+n c(5, 2)
+obs c(5, 1)
+exp c(2.81428571428571, 3.18571428571429)
+var c(1.13852607709751, -1.13852607709751, -1.13852607709751, 1.13852607709751)
+chisq 4.1960803839949
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0405175279948482
+x
+1 Stats for fold 5 in run 3
+V1
+n c(4, 2)
+obs c(1, 1)
+exp c(1.46666666666667, 0.533333333333333)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 0.569767441860465
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.450351343584874
+x
+1 Stats for fold 6 in run 3
+V1
+n c(2, 5)
+obs c(1, 1)
+exp c(0.619047619047619, 1.38095238095238)
+var c(0.426303854875283, -0.426303854875283, -0.426303854875283, 0.426303854875283)
+chisq 0.340425531914894
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.559583699775243
+x
+1 Stats for fold 7 in run 3
+V1
+n c(3, 3)
+obs c(0, 1)
+exp c(0.5, 0.5)
+var c(0.25, -0.25, -0.25, 0.25)
+chisq 1
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.317310507862914
+x
+1 Stats for fold 8 in run 3
+V1
+n c(4, 3)
+obs c(3, 2)
+exp c(3.07142857142857, 1.92857142857143)
+var c(1.07267573696145, -1.07267573696145, -1.07267573696145, 1.07267573696145)
+chisq 0.00475636824859951
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.945016342090758
+x
+1 Stats for fold 9 in run 3
+V1
+n c(3, 3)
+obs c(3, 2)
+exp c(2.56666666666667, 2.43333333333333)
+var c(1.21222222222222, -1.21222222222222, -1.21222222222222, 1.21222222222222)
+chisq 0.154903758020165
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.693892517624614
+x
+1 Stats for fold 10 in run 3
+V1
+n c(5, 2)
+obs c(3, 2)
+exp c(3.93095238095238, 1.06904761904762)
+var c(0.773803854875283, -0.773803854875283, -0.773803854875283, 0.773803854875283)
+chisq 1.12001553124931
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.289915109687886
+x
+1 Stats for fold 1 in run 1
+V1
+n c(3, 3)
+obs c(2, 1)
+exp c(1.6, 1.4)
+var c(0.74, -0.74, -0.74, 0.74)
+chisq 0.216216216216216
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.641938220405063
+x
+1 Stats for fold 2 in run 1
+V1
+n 3:4
+obs c(1, 1)
+exp c(0.828571428571429, 1.17142857142857)
+var c(0.484897959183674, -0.484897959183674, -0.484897959183673, 0.484897959183673)
+chisq 0.0606060606060605
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.805540588667494
+x
+1 Stats for fold 3 in run 1
+V1
+n c(2, 4)
+obs c(2, 1)
+exp c(0.783333333333333, 2.21666666666667)
+var c(0.569722222222222, -0.569722222222222, -0.569722222222222, 0.569722222222222)
+chisq 2.59824475865432
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.106982139427771
+x
+1 Stats for fold 4 in run 1
+V1
+n c(4, 3)
+obs c(0, 2)
+exp c(1.32142857142857, 0.678571428571429)
+var c(0.432397959183673, -0.432397959183673, -0.432397959183673, 0.432397959183674)
+chisq 4.03834808259587
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0444773385064274
+x
+1 Stats for fold 6 in run 1
+V1
+n c(4, 3)
+obs c(2, 1)
+exp c(1.47619047619048, 1.52380952380952)
+var c(0.630385487528345, -0.630385487528345, -0.630385487528345, 0.630385487528345)
+chisq 0.435251798561151
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.509423158589856
+x
+1 Stats for fold 7 in run 1
+V1
+n c(3, 3)
+obs c(2, 2)
+exp c(2.26666666666667, 1.73333333333333)
+var c(0.962222222222222, -0.962222222222222, -0.962222222222222, 0.962222222222222)
+chisq 0.0739030023094688
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.785736537959913
+x
+1 Stats for fold 8 in run 1
+V1
+n c(4, 3)
+obs c(1, 3)
+exp c(2.42142857142857, 1.57857142857143)
+var c(0.922397959183674, -0.922397959183674, -0.922397959183674, 0.922397959183674)
+chisq 2.19044194922286
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.138869464624906
+x
+1 Stats for fold 10 in run 1
+V1
+n c(2, 5)
+obs c(2, 2)
+exp c(0.819047619047619, 3.18095238095238)
+var c(0.586303854875283, -0.586303854875283, -0.586303854875283, 0.586303854875283)
+chisq 2.37871287128713
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.122998852102143
+x
+1 Stats for fold 1 in run 2
+V1
+n c(2, 4)
+obs c(2, 0)
+exp c(0.583333333333333, 1.41666666666667)
+var c(0.409722222222222, -0.409722222222222, -0.409722222222222, 0.409722222222222)
+chisq 4.89830508474576
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0268830685440037
+x
+1 Stats for fold 2 in run 2
+V1
+n 3:4
+obs c(1, 4)
+exp c(3.27857142857143, 1.72142857142857)
+var c(0.922397959183674, -0.922397959183674, -0.922397959183674, 0.922397959183674)
+chisq 5.6286852148902
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0176688791415421
+x
+1 Stats for fold 3 in run 2
+V1
+n c(5, 1)
+obs c(3, 0)
+exp c(2.38333333333333, 0.616666666666667)
+var c(0.486388888888889, -0.486388888888889, -0.486388888888889, 0.486388888888889)
+chisq 0.781838949171902
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.376579313202682
+x
+1 Stats for fold 4 in run 2
+V1
+n 3:4
+obs c(2, 3)
+exp c(2.66190476190476, 2.33809523809524)
+var c(0.957120181405896, -0.957120181405896, -0.957120181405896, 0.957120181405896)
+chisq 0.457745978345851
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.498679281465346
+x
+1 Stats for fold 5 in run 2
+V1
+n c(4, 2)
+obs c(3, 1)
+exp c(2.68333333333333, 1.31666666666667)
+var c(0.871944444444444, -0.871944444444444, -0.871944444444445, 0.871944444444444)
+chisq 0.115004778591908
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.734516662154657
+x
+1 Stats for fold 6 in run 2
+V1
+n c(6, 1)
+obs c(6, 0)
+exp c(4.52380952380952, 1.47619047619048)
+var c(0.844671201814059, -0.844671201814059, -0.844671201814059, 0.844671201814059)
+chisq 2.57986577181208
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.108230839558506
+x
+1 Stats for fold 7 in run 2
+V1
+n c(4, 2)
+obs c(2, 1)
+exp c(2.33333333333333, 0.666666666666667)
+var c(0.444444444444444, -0.444444444444444, -0.444444444444444, 0.444444444444444)
+chisq 0.25
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.617075077451974
+x
+1 Stats for fold 8 in run 2
+V1
+n c(6, 1)
+obs c(1, 0)
+exp c(1, 0)
+var c(0, 0, 0, 0)
+chisq 0
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 1
+x
+1 Stats for fold 9 in run 2
+V1
+n c(2, 4)
+obs c(1, 2)
+exp c(1.23333333333333, 1.76666666666667)
+var c(0.712222222222222, -0.712222222222222, -0.712222222222222, 0.712222222222222)
+chisq 0.0764430577223089
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.782176825525589
+x
+1 Stats for fold 10 in run 2
+V1
+n c(1, 6)
+obs c(1, 2)
+exp c(0.142857142857143, 2.85714285714286)
+var c(0.122448979591837, -0.122448979591837, -0.122448979591837, 0.122448979591837)
+chisq 6
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0143058784354296
+x
+1 Stats for fold 1 in run 3
+V1
+n c(3, 3)
+obs c(1, 2)
+exp c(1.4, 1.6)
+var c(0.74, -0.74, -0.74, 0.74)
+chisq 0.216216216216216
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.641938220405063
+x
+1 Stats for fold 2 in run 3
+V1
+n c(6, 1)
+obs c(1, 0)
+exp c(0.833333333333333, 0.166666666666667)
+var c(0.138888888888889, -0.138888888888889, -0.138888888888889, 0.138888888888889)
+chisq 0.2
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.654720846018577
+x
+1 Stats for fold 3 in run 3
+V1
+n c(4, 2)
+obs c(3, 1)
+exp c(2.1, 1.9)
+var c(0.934444444444444, -0.934444444444444, -0.934444444444445, 0.934444444444444)
+chisq 0.866825208085612
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.35183572722835
+x
+1 Stats for fold 4 in run 3
+V1
+n c(4, 3)
+obs c(2, 3)
+exp c(3.78809523809524, 1.21190476190476)
+var c(0.814620181405896, -0.814620181405896, -0.814620181405896, 0.814620181405896)
+chisq 3.92487769573901
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0475766509428884
+x
+1 Stats for fold 5 in run 3
+V1
+n c(4, 2)
+obs c(3, 0)
+exp c(1.76666666666667, 1.23333333333333)
+var c(0.712222222222222, -0.712222222222222, -0.712222222222222, 0.712222222222222)
+chisq 2.13572542901716
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.1439023723891
+x
+1 Stats for fold 6 in run 3
+V1
+n c(5, 2)
+obs c(4, 1)
+exp c(3.23095238095238, 1.76904761904762)
+var c(1.10380385487528, -1.10380385487528, -1.10380385487528, 1.10380385487528)
+chisq 0.535814617561412
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.464172479468189
+x
+1 Stats for fold 7 in run 3
+V1
+n c(2, 4)
+obs c(2, 3)
+exp c(0.533333333333333, 4.46666666666667)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 5.62790697674419
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0176767254458422
+x
+1 Stats for fold 8 in run 3
+V1
+n 3:4
+obs c(0, 3)
+exp c(1.52857142857143, 1.47142857142857)
+var c(0.734897959183674, -0.734897959183674, -0.734897959183674, 0.734897959183674)
+chisq 3.17939461260761
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.074572353911223
+x
+1 Stats for fold 9 in run 3
+V1
+n c(2, 4)
+obs c(1, 1)
+exp c(0.9, 1.1)
+var c(0.49, -0.49, -0.49, 0.49)
+chisq 0.0204081632653062
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.886403006367063
+x
+1 Stats for fold 10 in run 3
+V1
+n c(2, 5)
+obs c(1, 3)
+exp c(0.485714285714286, 3.51428571428571)
+var c(0.364081632653061, -0.364081632653061, -0.364081632653061, 0.364081632653061)
+chisq 0.726457399103139
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.394033899001488
+x
+1 Stats for fold 1 in run 1
+V1
+n c(3, 3)
+obs c(2, 1)
+exp c(1.6, 1.4)
+var c(0.74, -0.74, -0.74, 0.74)
+chisq 0.216216216216216
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.641938220405063
+x
+1 Stats for fold 2 in run 1
+V1
+n 3:4
+obs c(1, 1)
+exp c(0.828571428571429, 1.17142857142857)
+var c(0.484897959183674, -0.484897959183674, -0.484897959183673, 0.484897959183673)
+chisq 0.0606060606060605
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.805540588667494
+x
+1 Stats for fold 3 in run 1
+V1
+n c(2, 4)
+obs c(2, 1)
+exp c(0.783333333333333, 2.21666666666667)
+var c(0.569722222222222, -0.569722222222222, -0.569722222222222, 0.569722222222222)
+chisq 2.59824475865432
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.106982139427771
+x
+1 Stats for fold 4 in run 1
+V1
+n c(4, 3)
+obs c(0, 2)
+exp c(1.32142857142857, 0.678571428571429)
+var c(0.432397959183673, -0.432397959183673, -0.432397959183673, 0.432397959183674)
+chisq 4.03834808259587
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0444773385064274
+x
+1 Stats for fold 6 in run 1
+V1
+n c(4, 3)
+obs c(2, 1)
+exp c(1.47619047619048, 1.52380952380952)
+var c(0.630385487528345, -0.630385487528345, -0.630385487528345, 0.630385487528345)
+chisq 0.435251798561151
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.509423158589856
+x
+1 Stats for fold 7 in run 1
+V1
+n c(3, 3)
+obs c(2, 2)
+exp c(2.26666666666667, 1.73333333333333)
+var c(0.962222222222222, -0.962222222222222, -0.962222222222222, 0.962222222222222)
+chisq 0.0739030023094688
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.785736537959913
+x
+1 Stats for fold 8 in run 1
+V1
+n c(4, 3)
+obs c(1, 3)
+exp c(2.42142857142857, 1.57857142857143)
+var c(0.922397959183674, -0.922397959183674, -0.922397959183674, 0.922397959183674)
+chisq 2.19044194922286
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.138869464624906
+x
+1 Stats for fold 10 in run 1
+V1
+n c(2, 5)
+obs c(2, 2)
+exp c(0.819047619047619, 3.18095238095238)
+var c(0.586303854875283, -0.586303854875283, -0.586303854875283, 0.586303854875283)
+chisq 2.37871287128713
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.122998852102143
+x
+1 Stats for fold 1 in run 2
+V1
+n c(2, 4)
+obs c(2, 0)
+exp c(0.583333333333333, 1.41666666666667)
+var c(0.409722222222222, -0.409722222222222, -0.409722222222222, 0.409722222222222)
+chisq 4.89830508474576
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0268830685440037
+x
+1 Stats for fold 2 in run 2
+V1
+n 3:4
+obs c(1, 4)
+exp c(3.27857142857143, 1.72142857142857)
+var c(0.922397959183674, -0.922397959183674, -0.922397959183674, 0.922397959183674)
+chisq 5.6286852148902
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0176688791415421
+x
+1 Stats for fold 3 in run 2
+V1
+n c(5, 1)
+obs c(3, 0)
+exp c(2.38333333333333, 0.616666666666667)
+var c(0.486388888888889, -0.486388888888889, -0.486388888888889, 0.486388888888889)
+chisq 0.781838949171902
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.376579313202682
+x
+1 Stats for fold 4 in run 2
+V1
+n 3:4
+obs c(2, 3)
+exp c(2.66190476190476, 2.33809523809524)
+var c(0.957120181405896, -0.957120181405896, -0.957120181405896, 0.957120181405896)
+chisq 0.457745978345851
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.498679281465346
+x
+1 Stats for fold 5 in run 2
+V1
+n c(4, 2)
+obs c(3, 1)
+exp c(2.68333333333333, 1.31666666666667)
+var c(0.871944444444444, -0.871944444444444, -0.871944444444445, 0.871944444444444)
+chisq 0.115004778591908
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.734516662154657
+x
+1 Stats for fold 6 in run 2
+V1
+n c(6, 1)
+obs c(6, 0)
+exp c(4.52380952380952, 1.47619047619048)
+var c(0.844671201814059, -0.844671201814059, -0.844671201814059, 0.844671201814059)
+chisq 2.57986577181208
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.108230839558506
+x
+1 Stats for fold 7 in run 2
+V1
+n c(4, 2)
+obs c(2, 1)
+exp c(2.33333333333333, 0.666666666666667)
+var c(0.444444444444444, -0.444444444444444, -0.444444444444444, 0.444444444444444)
+chisq 0.25
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.617075077451974
+x
+1 Stats for fold 8 in run 2
+V1
+n c(6, 1)
+obs c(1, 0)
+exp c(1, 0)
+var c(0, 0, 0, 0)
+chisq 0
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 1
+x
+1 Stats for fold 9 in run 2
+V1
+n c(2, 4)
+obs c(1, 2)
+exp c(1.23333333333333, 1.76666666666667)
+var c(0.712222222222222, -0.712222222222222, -0.712222222222222, 0.712222222222222)
+chisq 0.0764430577223089
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.782176825525589
+x
+1 Stats for fold 10 in run 2
+V1
+n c(1, 6)
+obs c(1, 2)
+exp c(0.142857142857143, 2.85714285714286)
+var c(0.122448979591837, -0.122448979591837, -0.122448979591837, 0.122448979591837)
+chisq 6
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0143058784354296
+x
+1 Stats for fold 1 in run 3
+V1
+n c(3, 3)
+obs c(1, 2)
+exp c(1.4, 1.6)
+var c(0.74, -0.74, -0.74, 0.74)
+chisq 0.216216216216216
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.641938220405063
+x
+1 Stats for fold 2 in run 3
+V1
+n c(6, 1)
+obs c(1, 0)
+exp c(0.833333333333333, 0.166666666666667)
+var c(0.138888888888889, -0.138888888888889, -0.138888888888889, 0.138888888888889)
+chisq 0.2
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.654720846018577
+x
+1 Stats for fold 3 in run 3
+V1
+n c(4, 2)
+obs c(3, 1)
+exp c(2.1, 1.9)
+var c(0.934444444444444, -0.934444444444444, -0.934444444444445, 0.934444444444444)
+chisq 0.866825208085612
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.35183572722835
+x
+1 Stats for fold 4 in run 3
+V1
+n c(4, 3)
+obs c(2, 3)
+exp c(3.78809523809524, 1.21190476190476)
+var c(0.814620181405896, -0.814620181405896, -0.814620181405896, 0.814620181405896)
+chisq 3.92487769573901
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0475766509428884
+x
+1 Stats for fold 5 in run 3
+V1
+n c(4, 2)
+obs c(3, 0)
+exp c(1.76666666666667, 1.23333333333333)
+var c(0.712222222222222, -0.712222222222222, -0.712222222222222, 0.712222222222222)
+chisq 2.13572542901716
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.1439023723891
+x
+1 Stats for fold 6 in run 3
+V1
+n c(5, 2)
+obs c(4, 1)
+exp c(3.23095238095238, 1.76904761904762)
+var c(1.10380385487528, -1.10380385487528, -1.10380385487528, 1.10380385487528)
+chisq 0.535814617561412
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.464172479468189
+x
+1 Stats for fold 7 in run 3
+V1
+n c(2, 4)
+obs c(2, 3)
+exp c(0.533333333333333, 4.46666666666667)
+var c(0.382222222222222, -0.382222222222222, -0.382222222222222, 0.382222222222222)
+chisq 5.62790697674419
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.0176767254458422
+x
+1 Stats for fold 8 in run 3
+V1
+n 3:4
+obs c(0, 3)
+exp c(1.52857142857143, 1.47142857142857)
+var c(0.734897959183674, -0.734897959183674, -0.734897959183674, 0.734897959183674)
+chisq 3.17939461260761
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.074572353911223
+x
+1 Stats for fold 9 in run 3
+V1
+n c(2, 4)
+obs c(1, 1)
+exp c(0.9, 1.1)
+var c(0.49, -0.49, -0.49, 0.49)
+chisq 0.0204081632653062
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.886403006367063
+x
+1 Stats for fold 10 in run 3
+V1
+n c(2, 5)
+obs c(1, 3)
+exp c(0.485714285714286, 3.51428571428571)
+var c(0.364081632653061, -0.364081632653061, -0.364081632653061, 0.364081632653061)
+chisq 0.726457399103139
+call survdiff(formula = mySurv.obj ~ unlist(risk.groups))
+x
+1 P-Value:
+x
+1 0.394033899001488
