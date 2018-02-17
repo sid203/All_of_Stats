@@ -1,0 +1,30 @@
+############################################################################################################################################################
+
+
+
+Summary : Generalized Additive Models , another class of regressors for doing (semi) nonparametric regression. One can express a GAM as :
+
+y = a + m1(x1) + m2(x2) + m3(x3).....  
+
+where m1 , m2 , m3 ....mn are any class of "smooth" functions which are estimated from the data. Typically you usually write a 1-Dimensional smoother which maybe splines or a kernel smoother. Regress on all covariates except for the ith covariate Xi , and obtain the residuals. These residuals are made smooth again wrt to 
+the ith smoother. This is called Backfitting. 
+
+One can also extend the above framework to SpAMs which is Sparse Additive Models. Just run the above backfitting , and soft threshold the ith smoothing function 
+by calculating the L1 Norm of the ith smoother. 
+
+This is the original paper about SpAMs : https://arxiv.org/pdf/0711.4555.pdf
+
+Files : 
+
+1. additive_models.R : this script fits a GAM model through Backfitting. The data used is ore.RData    
+2. additive_models_SpAM.R : extends the above GAM model to Sparse Additive Model.
+3. ore.RData : data to be used for additive_models.R
+4. forest_cover_prediction.R : a  prediction problem to predict forest cover. 
+
+The description is mentioned here : https://www.kaggle.com/c/forest-cover-type-prediction
+
+5. prediction_problem.R : A prediction problem to classify music genres. This script used the data files mentioned in the folder hw2data.
+
+6. hw2data : folder containing audio files for music genres classification. 
+
+
